@@ -3,12 +3,11 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/spacecat.png
     image_alt: App preview
-    title: This Is A Big Hero Headline
+    title: Ethereum World Asssociation
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+      OF THE PEOPLE, BY THE PEOPLE, FOR THE PEOPLE
     actions:
       - label: Learn More
         url: /features
